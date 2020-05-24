@@ -1,0 +1,22 @@
+{
+  "name": "basic-node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:marcosbrazz/basic-node-service.git"
+  },
+  "author": "Marcos H Braz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosbrazz/basic-node-service/issues"
+  },
+  "homepage": "https://github.com/marcosbrazz/basic-node-service#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
